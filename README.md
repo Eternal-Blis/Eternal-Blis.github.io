@@ -1,5 +1,5 @@
 # Eternal-Blis.github.io
-stuff
+** ** stuff
 b64 (read these per line because some make commas)
 
 SSBsb3ZlIGNlYXNlciBjaXBoZXI=
@@ -16,4 +16,3 @@ TmV4dCwgeW91IGZlZWQgdGhlIGNoaWNrZW4gd2l0aCBjaGlja2VuIGZlZWQgbWl4ZWQgd2l0aCBtYXJp
 
 V2hlbiB3ZSBnZXQgdGhlIGVnZ3MsIHdlIGNhbiBtYWtlIGFuIG9tZWxldC4gTmV4dCBzdGVwOiBnbyBvbmxpbmUgYW5kIGZpbmQgb21sZXQgcmVjaXBlLiBGaW5hbGx5LCBlYXQgdGhlIG9tbGV0LiBDb25ncmF0cyEgWW91IGhhdmUgZWF0ZW4gYSBmbG93ZXIu
 
-And now, you have learned how to eat flowers without regreting you ever did it!
