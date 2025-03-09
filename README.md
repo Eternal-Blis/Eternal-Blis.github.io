@@ -1,2 +1,19 @@
 # Eternal-Blis.github.io
 stuff
+b64 (read these per line because some make commas)
+
+SSBsb3ZlIGNlYXNlciBjaXBoZXI=
+
+UGxlYXNlLCB5b3Ugc3Vjay4uLg==
+
+QW55d2F5cywgdGltZSBmb3IgdG9kYXkncyBibG9nOiBob3cgdG8gZWF0IGZsb3dlcnMh
+
+Rmlyc3QsIHlvdSBnZXQgYSBjaGlja2VuLg==
+
+VGhlbiwgeW91IGdldCBzb21lIG1hcmlnb2xkIGZsb3dlcnMhIFlheSEgVGhleSBzbWVsbCBiYWQgdGhvdWdoLi4u
+
+TmV4dCwgeW91IGZlZWQgdGhlIGNoaWNrZW4gd2l0aCBjaGlja2VuIGZlZWQgbWl4ZWQgd2l0aCBtYXJpZ29sZC4KQWZ0ZXIgdGhhdCwgd2Ugd2FpdCBmb3IgdGhlIGNoaWNrZW4gdG8gbGF5IGVnZ3Mu
+
+V2hlbiB3ZSBnZXQgdGhlIGVnZ3MsIHdlIGNhbiBtYWtlIGFuIG9tZWxldC4gTmV4dCBzdGVwOiBnbyBvbmxpbmUgYW5kIGZpbmQgb21sZXQgcmVjaXBlLiBGaW5hbGx5LCBlYXQgdGhlIG9tbGV0LiBDb25ncmF0cyEgWW91IGhhdmUgZWF0ZW4gYSBmbG93ZXIu
+
+And now, you have learned how to eat flowers without regreting you ever did it!
