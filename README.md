@@ -1,9 +1,9 @@
 # Eternal-Blis.github.io
-**stuff**
-b64 (read these per line because some make commas)
-
+## **stuff**
 ![](https://images.aeonmedia.co/images/78ba87e7-7198-4468-81b5-500c505d5bc8/essay-gettyimages-1237093074.jpg?width=1920&quality=75&format=auto)
 
+
+b64 (read these per line because some make commas)
 SSBsb3ZlIGNlYXNlciBjaXBoZXI=
 
 UGxlYXNlLCB5b3Ugc3Vjay4uLg==
