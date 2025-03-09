@@ -1,5 +1,5 @@
 # Eternal-Blis.github.io
-** stuff **
+**stuff**
 b64 (read these per line because some make commas)
 
 SSBsb3ZlIGNlYXNlciBjaXBoZXI=
